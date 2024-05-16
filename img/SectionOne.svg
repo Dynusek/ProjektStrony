@@ -16,7 +16,7 @@
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="#0f0412"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
@@ -40,7 +40,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:483.092"
+       style="fill:#0f0412;fill-opacity:1;stroke-width:483.092"
        id="rect4132"
        width="725.23376"
        height="469.1969"
@@ -48,14 +48,14 @@
        y="-467.63699"
        transform="matrix(-0.99999937,-0.00111946,-0.76676936,-0.6419227,0,0)" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:264.583"
+       style="fill:#0f0412;fill-opacity:1;stroke-width:264.583"
        id="rect4138"
        width="300"
        height="300"
        x="600"
        y="-1.4210855e-14" />
     <rect
-       style="fill:#000000;stroke-width:266.024"
+       style="fill:#0f0412;stroke-width:266.024"
        id="rect2293"
        width="712.56866"
        height="302.87454"
