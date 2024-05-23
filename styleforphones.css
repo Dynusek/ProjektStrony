@@ -11,6 +11,9 @@
       .search-bar {
         visibility: collapse;
         position: absolute;
+        width: 0;
+        height: 0;
+        left: 0;
       }
 
       .search-bar-phone {
@@ -20,6 +23,9 @@
       .search-bar-phone a img {
           width: 10vw;
           transition: 1s;
+          position: absolute;
+          right: 0;
+          top: 0;
       }
   
       .about-me-section {
