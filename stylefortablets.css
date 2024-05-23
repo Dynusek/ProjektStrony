@@ -17,6 +17,9 @@
         width: 10vw;
         transition: 1s;
         visibility: visible;
+        position: absolute;
+        right: 0;
+        top: 0;
     }
 
     .about-me-section {
