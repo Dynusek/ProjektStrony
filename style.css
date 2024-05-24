@@ -383,3 +383,7 @@ footer {
     from {margin-top: 0vw;}
     to {margin-top: 0;}
 }
+
+.komentarz {
+    padding: 1vw;
+}
